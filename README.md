@@ -1,0 +1,1 @@
+In this project I will build a basic recipe website, consiting of an index page with a few links to different recipes. I'll be using my acquired knowledge of using a boiler plate, creating links, organizing them into folders, using the commands I learned to make lists, and will use commits along the way to keep track of progress.
